@@ -23,3 +23,12 @@ Image_Result: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Stock Data_2018-2020: &nbsp;&nbsp;&nbsp;&nbsp;VBS scripts and Excel Workbook
 
 © 2023_Ratima Chowadee 
+
+**Result_2018**
+![2018 result](https://github.com/TaiShan16/VBA-Challenge/blob/main/Image_Result/2018.JPG)
+
+**Result_2019**
+![2019 result](https://github.com/TaiShan16/VBA-Challenge/blob/main/Image_Result/2019.JPG)
+
+**Result_2020**
+![2020 result](https://github.com/TaiShan16/VBA-Challenge/blob/main/Image_Result/2020.JPG)
