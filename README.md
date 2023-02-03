@@ -20,6 +20,6 @@ Last, after everything is done, I used For Each ws InThisWorkbook.Sheets to enab
 **Note: The following folders contain:**  
 
 Image_Result: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Screenshots of result or each year  
-Stock Data_2018-2020:    VBS scripts and Excel Workbook
+Stock Data_2018-2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VBS scripts and Excel Workbook
 
 © 2023_Ratima Chowadee 
