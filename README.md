@@ -17,9 +17,8 @@ Forth, I used Interior.colorIndex to format the cells in column J to display red
 
 Last, after everything is done, I used For Each ws InThisWorkbook.Sheets to enable the VBS script to run every worksheet at once.
 
-## Heading 2:Note: The following folders contain: 
+**Note: The following folders contain:** 
 Image_Result: Screenshots of result or each year  
-
 Stock Data_2018-2020: VBS scripts and Excel Workbook
 
 © 2023_Ratima Chowadee 
